@@ -42,6 +42,9 @@
 - 🔧 **[Project 2 Name](https://github.com/your-repo-link)**  
   _Brief description of the project_.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ---
 
 ### 📫 Connect with Me:
@@ -50,4 +53,5 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
+
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Ranjesh Thakur!</h1>
 
 <p align="center">
   <img src="your-profile-picture-url" alt="Profile Picture" width="150" style="border-radius:50%"/>
@@ -10,9 +10,9 @@
 
 ### 🙋‍♂️ About Me:
 - 🎓 I’m a student pursuing **[Your Program]** at [Your College/University].
-- 🌱 Currently learning **[Technologies]**.
-- 👨‍💻 Passionate about **[Your Interests]**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 🌱 Currently learning Frontend Development.
+- 👨‍💻 Passionate about Fullstack Development.
+- 📫 How to reach me: rs0036870@gmail.com
 
 ---
 

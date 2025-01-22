@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">👋 Hello, I'm Ranjesh Thakur!</h1>
 
 <p align="center">
-  <img src="your-profile-picture-url" alt="Profile Picture" width="150" style="border-radius:50%"/>
+  <img src="[your-profile-picture-url](https://github.com/account)" alt="Profile Picture" width="150" style="border-radius:50%"/>
 </p>
 
 ---

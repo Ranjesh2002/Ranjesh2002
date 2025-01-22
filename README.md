@@ -1,9 +1,4 @@
 <h1 align="center">👋 Hello, I'm Ranjesh Thakur!</h1>
-
-<p align="center">
-  <img src="(https://avatars.githubusercontent.com/u/140774733?v=4)" alt="Profile Picture" width="150" style="border-radius:50%"/>
-</p>
-
 ---
 
 ### 🙋‍♂️ About Me:

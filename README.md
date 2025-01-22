@@ -2,7 +2,7 @@
 ---
 
 ### 🙋‍♂️ About Me:
-- 🎓 I’m a student pursuing **[Your Program]** at [Your College/University].
+- 🎓 I’m a student pursuing BSc (HONS)CIT at AITM College.
 - 🌱 Currently learning Frontend Development.
 - 👨‍💻 Passionate about Fullstack Development.
 - 📫 How to reach me: rs0036870@gmail.com

@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjesh2002&show_icons=true&theme=radical" alt="GitHub Stats" />
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Ranjesh2002&theme=radical&cache_seconds=86400" alt="GitHub Streak Stats">
+<img src="https://via.placeholder.com/400x100.png?text=GitHub+Streak+Placeholder" alt="Placeholder Image" />
 </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjesh2002&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>

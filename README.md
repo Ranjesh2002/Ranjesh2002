@@ -64,7 +64,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranjesh2002&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  ![](https://github-profile-trophy.vercel.app/?username=sumit4622&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
 

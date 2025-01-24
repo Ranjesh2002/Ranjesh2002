@@ -62,10 +62,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranjesh2002&theme=radical&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ranjesh2002&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

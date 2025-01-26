@@ -47,7 +47,6 @@
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjesh2002&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Ranjesh2002&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjesh2002&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 

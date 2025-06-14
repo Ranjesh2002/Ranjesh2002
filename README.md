@@ -12,7 +12,7 @@
 ### 🛠️ Technologies and Tools:
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Windows%20Terminal-0078D7?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/Windows_Server-008080?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />

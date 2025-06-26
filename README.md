@@ -54,7 +54,7 @@
 
 ### 🌟 Featured Projects:
 - 🚀 **[Project 1 Name](https://github.com/your-repo-link)**  
-  _Brief description of the project_.
+  _Brief description of the project_
   
 - 🔧 **[Project 2 Name](https://github.com/your-repo-link)**  
   _Brief description of the project_.

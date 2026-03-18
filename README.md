@@ -53,10 +53,10 @@
 ---
 
 ### 🌟 Featured Projects:
-- 🚀 **[Project 1 Name](https://github.com/Ranjesh2002/Attenqr-Admin)**  
+- 🚀 **[AttenQr_Admin](https://github.com/Ranjesh2002/AttenQR_Admin)**  
   _Brief description of the project_
   
-- 🔧 **[Project 2 Name](https://github.com/your-repo-link)**  
+- 🔧 **[AttenQr_backend](https://github.com/Ranjesh2002/AttenQR_backend)**  
   _Brief description of the project_.
 
 ---
